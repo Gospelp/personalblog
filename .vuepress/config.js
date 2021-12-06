@@ -1,7 +1,7 @@
 module.exports = {
-  title: "mikoyan",
-  description: "mikoyan 的个人博客",
-  dest: "public",
+  title: "Miko Yan",
+  description: "Miko Yan's personal blog",
+  dest: "dist",
   head: [
     [
       "link",
@@ -55,6 +55,7 @@ module.exports = {
     ],
     sidebar: {
       "/blogs/categories/Vue/": ["vue", "vue_01", "vue_02"],
+      "/blogs/categories/React/": ["react"],
     },
     type: "blog",
     blogConfig: {
@@ -69,7 +70,7 @@ module.exports = {
     },
     friendLink: [
       {
-        title: "mikoyan",
+        title: "Miko Yan",
         desc: "Contact Author",
         email: "1365813771@qq.com",
         link: "tencent://message/?Site=baidu.com&uin=1365813771&Menu=yes",
@@ -82,16 +83,20 @@ module.exports = {
         link: "https://47.108.212.244.com",
       },
     ],
-    logo: "/logo.png",
+    logo: "/avatar.png",
     search: true,
     searchMaxSuggestions: 10,
     lastUpdated: "Last Updated",
-    author: "mikoyan",
+    author: "Miko Yan",
     authorAvatar: "/avatar.png",
+    // record: 'ICP 备案文案',
+    // recordLink: 'ICP 备案指向链接',
+    // cyberSecurityRecord: '公安部备案文案',
+    // cyberSecurityLink: '公安部备案指向链接',
     startYear: "2021",
     valineConfig: {
-      appId: "qCotgRe6cJbrmI63r2fB0Ird-gzGzoHsz", // your appId
-      appKey: "8oNihGOQygEi3KNu8aL5daFB", // your appKey
+      appId: "qCotgRe6cJbrmI63r2fB0Ird-gzGzoHsz", 
+      appKey: "8oNihGOQygEi3KNu8aL5daFB", 
     },
   },
   markdown: {
