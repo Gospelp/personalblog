@@ -3,14 +3,6 @@
  */
 export default {
   "tags": {
-    "React": {
-      "key": "React",
-      "scope": "tags",
-      "path": "/tag/React/",
-      "pageKeys": [
-        "v-7cd2b24c"
-      ]
-    },
     "JS": {
       "key": "JS",
       "scope": "tags",
@@ -18,14 +10,6 @@ export default {
       "pageKeys": [
         "v-171fd64c",
         "v-0d20bf84"
-      ]
-    },
-    "css": {
-      "key": "css",
-      "scope": "tags",
-      "path": "/tag/css/",
-      "pageKeys": [
-        "v-38e13e9a"
       ]
     },
     "server": {
@@ -36,12 +20,20 @@ export default {
         "v-131aee4c"
       ]
     },
-    "webpack": {
-      "key": "webpack",
+    "css": {
+      "key": "css",
       "scope": "tags",
-      "path": "/tag/webpack/",
+      "path": "/tag/css/",
       "pageKeys": [
-        "v-228172d4"
+        "v-38e13e9a"
+      ]
+    },
+    "React": {
+      "key": "React",
+      "scope": "tags",
+      "path": "/tag/React/",
+      "pageKeys": [
+        "v-7cd2b24c"
       ]
     },
     "Vue2.0": {
@@ -61,6 +53,14 @@ export default {
         "v-4ef83070"
       ]
     },
+    "webpack": {
+      "key": "webpack",
+      "scope": "tags",
+      "path": "/tag/webpack/",
+      "pageKeys": [
+        "v-228172d4"
+      ]
+    },
     "work": {
       "key": "work",
       "scope": "tags",
@@ -71,14 +71,6 @@ export default {
     }
   },
   "categories": {
-    "React": {
-      "key": "React",
-      "scope": "categories",
-      "path": "/categories/React/",
-      "pageKeys": [
-        "v-7cd2b24c"
-      ]
-    },
     "JS": {
       "key": "JS",
       "scope": "categories",
@@ -86,14 +78,6 @@ export default {
       "pageKeys": [
         "v-171fd64c",
         "v-0d20bf84"
-      ]
-    },
-    "css": {
-      "key": "css",
-      "scope": "categories",
-      "path": "/categories/css/",
-      "pageKeys": [
-        "v-38e13e9a"
       ]
     },
     "server": {
@@ -104,12 +88,20 @@ export default {
         "v-131aee4c"
       ]
     },
-    "webpack": {
-      "key": "webpack",
+    "css": {
+      "key": "css",
       "scope": "categories",
-      "path": "/categories/webpack/",
+      "path": "/categories/css/",
       "pageKeys": [
-        "v-228172d4"
+        "v-38e13e9a"
+      ]
+    },
+    "React": {
+      "key": "React",
+      "scope": "categories",
+      "path": "/categories/React/",
+      "pageKeys": [
+        "v-7cd2b24c"
       ]
     },
     "Vue": {
@@ -120,6 +112,14 @@ export default {
         "v-280155d4",
         "v-4ef83070",
         "v-3d5e01f4"
+      ]
+    },
+    "webpack": {
+      "key": "webpack",
+      "scope": "categories",
+      "path": "/categories/webpack/",
+      "pageKeys": [
+        "v-228172d4"
       ]
     },
     "工作杂记": {

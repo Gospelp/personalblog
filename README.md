@@ -1,16 +1,15 @@
 ---
 home: true
-heroText: 只要卷不死，就往死里卷。
-tagline: Miko Yan Personal Blog
-# heroImage: /hero.png
-# heroImageStyle: {
-#   maxWidth: '200px',
-#   width: '100%',
-#   display: block,
-#   margin: '9rem auto 2rem',
-#   background: '#fff',
-#   borderRadius: '1rem',
-# }
+heroText: 生命不止，奋斗不息
+tagline: Miko Yan
+heroImage: /walk.gif
+heroImageStyle: {
+  maxWidth: '150px',
+  width: '100%',
+  display: block,
+  margin: '0 auto 2rem',
+  borderRadius: '1rem',
+}
 bgImageStyle: {
   height: '450px',
 }

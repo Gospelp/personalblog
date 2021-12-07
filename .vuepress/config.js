@@ -1,6 +1,6 @@
 module.exports = {
-  title: "Miko Yan",
-  description: "Miko Yan's personal blog",
+  title: "劝君惜取少年时",
+  description: "Loading...",
   dest: "dist",
   head: [
     [
@@ -80,10 +80,10 @@ module.exports = {
         desc: "一款集快递代拿、二手闲置、校园交友于一体的小程序",
         avatar:
           "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
-        link: "https://47.108.212.244.com",
+        link: "http://www.mikoyan.top",
       },
     ],
-    logo: "/avatar.png",
+    logo: "/book.png",
     search: true,
     searchMaxSuggestions: 10,
     lastUpdated: "Last Updated",
