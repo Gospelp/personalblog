@@ -1,5 +1,5 @@
 ---
-title: 工作中学习到的一些知识
+title: 工作知识
 date: 2021-11-24
 categories:
  - 工作杂记

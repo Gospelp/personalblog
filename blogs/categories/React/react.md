@@ -35,7 +35,7 @@ react.dom：扩展库
 
 ### hello React
 
-```react
+```js
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -88,7 +88,7 @@ react.dom：扩展库
 
 ### 练习
 
-```react
+```js
 <!DOCTYPE html>
 <html lang="en">
 
@@ -157,7 +157,7 @@ react.dom：扩展库
 
 ## 函数式组件
 
-```react
+```js
  //1.创建函数式组件
         // 组件（代码与资源的集合）
         function Demo() {
@@ -175,7 +175,7 @@ react.dom：扩展库
 
 ## 类组件
 
-```react
+```js
   //1.创建类式组件(必须继承React.Component)
         class Demo extends React.Component {
             // 类的原型对象上，供实例使用
@@ -199,7 +199,7 @@ react.dom：扩展库
 
 ### state
 
-```react
+```js
  class Weather extends React.Component {
             //构造器调用了一次
             constructor(props) {
@@ -240,7 +240,7 @@ react.dom：扩展库
 
 #### 简写
 
-```react
+```js
  class Weather extends React.Component {
             // 初始化状态
             state = {
@@ -277,7 +277,7 @@ react.dom：扩展库
 
 ### props
 
-```react
+```js
 <!DOCTYPE html>
 <html lang="en">
 
@@ -375,7 +375,7 @@ react.dom：扩展库
 </html>
 ```
 
-```react
+```js
 <script type="text/babel">
         //    函数式组件props
         function Person(props) {
@@ -393,7 +393,7 @@ react.dom：扩展库
 
 ### refs
 
-```react
+```js
  // 字符串形式ref
         class Demo extends React.Component {
             showData = () => {
@@ -420,7 +420,7 @@ react.dom：扩展库
         ReactDOM.render(<Demo />, document.getElementById('test'))
 ```
 
-```react
+```js
   //回调函数形式ref
         class Demo extends React.Component {
             showData = () => {
