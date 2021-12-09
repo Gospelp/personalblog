@@ -9,7 +9,7 @@ date: 2021-11-20
 
 1.博客初始化
 2.同步测试
-
+3.使用vuepress-theme-reco
 ```
 
 ## License
