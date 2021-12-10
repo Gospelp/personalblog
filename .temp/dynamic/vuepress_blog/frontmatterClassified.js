@@ -8,8 +8,16 @@ export default {
       "scope": "tags",
       "path": "/tag/JS/",
       "pageKeys": [
-        "v-0d20bf84",
-        "v-171fd64c"
+        "v-171fd64c",
+        "v-0d20bf84"
+      ]
+    },
+    "css": {
+      "key": "css",
+      "scope": "tags",
+      "path": "/tag/css/",
+      "pageKeys": [
+        "v-38e13e9a"
       ]
     },
     "server": {
@@ -28,29 +36,21 @@ export default {
         "v-7cd2b24c"
       ]
     },
-    "webpack": {
-      "key": "webpack",
-      "scope": "tags",
-      "path": "/tag/webpack/",
-      "pageKeys": [
-        "v-228172d4"
-      ]
-    },
-    "css": {
-      "key": "css",
-      "scope": "tags",
-      "path": "/tag/css/",
-      "pageKeys": [
-        "v-38e13e9a"
-      ]
-    },
     "Vue2.0": {
       "key": "Vue2.0",
       "scope": "tags",
       "path": "/tag/Vue2.0/",
       "pageKeys": [
-        "v-3d5e01f4",
-        "v-280155d4"
+        "v-280155d4",
+        "v-3d5e01f4"
+      ]
+    },
+    "work": {
+      "key": "work",
+      "scope": "tags",
+      "path": "/tag/work/",
+      "pageKeys": [
+        "v-5dce1052"
       ]
     },
     "Vue3.0": {
@@ -61,12 +61,12 @@ export default {
         "v-4ef83070"
       ]
     },
-    "work": {
-      "key": "work",
+    "webpack": {
+      "key": "webpack",
       "scope": "tags",
-      "path": "/tag/work/",
+      "path": "/tag/webpack/",
       "pageKeys": [
-        "v-5dce1052"
+        "v-228172d4"
       ]
     }
   },
@@ -76,8 +76,16 @@ export default {
       "scope": "categories",
       "path": "/categories/JS/",
       "pageKeys": [
-        "v-0d20bf84",
-        "v-171fd64c"
+        "v-171fd64c",
+        "v-0d20bf84"
+      ]
+    },
+    "css": {
+      "key": "css",
+      "scope": "categories",
+      "path": "/categories/css/",
+      "pageKeys": [
+        "v-38e13e9a"
       ]
     },
     "server": {
@@ -96,30 +104,14 @@ export default {
         "v-7cd2b24c"
       ]
     },
-    "webpack": {
-      "key": "webpack",
-      "scope": "categories",
-      "path": "/categories/webpack/",
-      "pageKeys": [
-        "v-228172d4"
-      ]
-    },
-    "css": {
-      "key": "css",
-      "scope": "categories",
-      "path": "/categories/css/",
-      "pageKeys": [
-        "v-38e13e9a"
-      ]
-    },
     "Vue": {
       "key": "Vue",
       "scope": "categories",
       "path": "/categories/Vue/",
       "pageKeys": [
+        "v-280155d4",
         "v-3d5e01f4",
-        "v-4ef83070",
-        "v-280155d4"
+        "v-4ef83070"
       ]
     },
     "工作杂记": {
@@ -128,6 +120,14 @@ export default {
       "path": "/categories/工作杂记/",
       "pageKeys": [
         "v-5dce1052"
+      ]
+    },
+    "webpack": {
+      "key": "webpack",
+      "scope": "categories",
+      "path": "/categories/webpack/",
+      "pageKeys": [
+        "v-228172d4"
       ]
     }
   },

@@ -64,6 +64,31 @@ export const siteData = {
       "lastUpdated": "12/7/2021, 3:34:31 PM"
     },
     {
+      "title": "async await关键字的使用",
+      "frontmatter": {
+        "title": "async await关键字的使用",
+        "date": "2021-11-24T00:00:00.000Z",
+        "categories": [
+          "JS"
+        ],
+        "tags": [
+          "JS"
+        ]
+      },
+      "regularPath": "/blogs/categories/JS/JS_01.html",
+      "relativePath": "blogs/categories/JS/JS_01.md",
+      "key": "v-171fd64c",
+      "path": "/blogs/categories/JS/JS_01.html",
+      "headers": [
+        {
+          "level": 3,
+          "title": "async await",
+          "slug": "async-await"
+        }
+      ],
+      "lastUpdated": "11/24/2021, 1:10:23 PM"
+    },
+    {
       "title": "Mockjs 使用",
       "frontmatter": {
         "title": "Mockjs 使用",
@@ -149,6 +174,41 @@ export const siteData = {
       "lastUpdated": "12/6/2021, 3:26:24 PM"
     },
     {
+      "title": "Scss的使用",
+      "frontmatter": {
+        "title": "Scss的使用",
+        "date": "2021-12-06T00:00:00.000Z",
+        "categories": [
+          "css"
+        ],
+        "tags": [
+          "css"
+        ]
+      },
+      "regularPath": "/blogs/categories/Scss/scss_01.html",
+      "relativePath": "blogs/categories/Scss/scss_01.md",
+      "key": "v-38e13e9a",
+      "path": "/blogs/categories/Scss/scss_01.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "SCSS 的使用",
+          "slug": "scss-的使用"
+        },
+        {
+          "level": 3,
+          "title": "1.@mixin 和@include 的使用 混入",
+          "slug": "_1-mixin-和-include-的使用-混入"
+        },
+        {
+          "level": 3,
+          "title": "2.@extend 的使用 继承",
+          "slug": "_2-extend-的使用-继承"
+        }
+      ],
+      "lastUpdated": "12/7/2021, 10:05:28 AM"
+    },
+    {
       "title": "服务器部署",
       "frontmatter": {
         "title": "服务器部署",
@@ -169,31 +229,6 @@ export const siteData = {
           "level": 2,
           "title": "进度",
           "slug": "进度"
-        }
-      ],
-      "lastUpdated": "11/24/2021, 1:10:23 PM"
-    },
-    {
-      "title": "async await关键字的使用",
-      "frontmatter": {
-        "title": "async await关键字的使用",
-        "date": "2021-11-24T00:00:00.000Z",
-        "categories": [
-          "JS"
-        ],
-        "tags": [
-          "JS"
-        ]
-      },
-      "regularPath": "/blogs/categories/JS/JS_01.html",
-      "relativePath": "blogs/categories/JS/JS_01.md",
-      "key": "v-171fd64c",
-      "path": "/blogs/categories/JS/JS_01.html",
-      "headers": [
-        {
-          "level": 3,
-          "title": "async await",
-          "slug": "async-await"
         }
       ],
       "lastUpdated": "11/24/2021, 1:10:23 PM"
@@ -266,67 +301,32 @@ export const siteData = {
           "slug": "refs"
         }
       ],
-      "lastUpdated": "11/24/2021, 1:10:23 PM"
+      "lastUpdated": "12/9/2021, 5:26:32 PM"
     },
     {
-      "title": "webpack基础配置",
+      "title": "Vue国际化配置",
       "frontmatter": {
-        "title": "webpack基础配置",
-        "date": "2021-11-23T00:00:00.000Z",
+        "title": "Vue国际化配置",
+        "date": "2021-11-24T00:00:00.000Z",
         "categories": [
-          "webpack"
+          "Vue"
         ],
         "tags": [
-          "webpack"
+          "Vue2.0"
         ]
       },
-      "regularPath": "/blogs/categories/Webpack/webpack.html",
-      "relativePath": "blogs/categories/Webpack/webpack.md",
-      "key": "v-228172d4",
-      "path": "/blogs/categories/Webpack/webpack.html",
+      "regularPath": "/blogs/categories/Vue/vue_01.html",
+      "relativePath": "blogs/categories/Vue/vue_01.md",
+      "key": "v-280155d4",
+      "path": "/blogs/categories/Vue/vue_01.html",
       "headers": [
         {
-          "level": 2,
-          "title": "进度",
-          "slug": "进度"
+          "level": 3,
+          "title": "Vue-i18n",
+          "slug": "vue-i18n"
         }
       ],
       "lastUpdated": "11/24/2021, 1:10:23 PM"
-    },
-    {
-      "title": "Scss的使用",
-      "frontmatter": {
-        "title": "Scss的使用",
-        "date": "2021-12-06T00:00:00.000Z",
-        "categories": [
-          "css"
-        ],
-        "tags": [
-          "css"
-        ]
-      },
-      "regularPath": "/blogs/categories/Scss/scss_01.html",
-      "relativePath": "blogs/categories/Scss/scss_01.md",
-      "key": "v-38e13e9a",
-      "path": "/blogs/categories/Scss/scss_01.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "SCSS 的使用",
-          "slug": "scss-的使用"
-        },
-        {
-          "level": 3,
-          "title": "1.@mixin 和@include 的使用 混入",
-          "slug": "_1-mixin-和-include-的使用-混入"
-        },
-        {
-          "level": 3,
-          "title": "2.@extend 的使用 继承",
-          "slug": "_2-extend-的使用-继承"
-        }
-      ],
-      "lastUpdated": "12/7/2021, 10:05:28 AM"
     },
     {
       "title": "Vuex语法糖、插槽、父子传值",
@@ -357,6 +357,76 @@ export const siteData = {
         }
       ],
       "lastUpdated": "11/24/2021, 1:10:23 PM"
+    },
+    {
+      "title": "工作知识",
+      "frontmatter": {
+        "title": "工作知识",
+        "date": "2021-11-24T00:00:00.000Z",
+        "categories": [
+          "工作杂记"
+        ],
+        "tags": [
+          "work"
+        ]
+      },
+      "regularPath": "/blogs/categories/Work/work.html",
+      "relativePath": "blogs/categories/Work/work.md",
+      "key": "v-5dce1052",
+      "path": "/blogs/categories/Work/work.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "tips",
+          "slug": "tips"
+        },
+        {
+          "level": 3,
+          "title": "1.设置字体渐变",
+          "slug": "_1-设置字体渐变"
+        },
+        {
+          "level": 3,
+          "title": "2.拖拽排序",
+          "slug": "_2-拖拽排序"
+        },
+        {
+          "level": 3,
+          "title": "3.浏览器去掉滚动条",
+          "slug": "_3-浏览器去掉滚动条"
+        },
+        {
+          "level": 3,
+          "title": "4.背景虚化",
+          "slug": "_4-背景虚化"
+        },
+        {
+          "level": 3,
+          "title": "5.文本超出...",
+          "slug": "_5-文本超出"
+        },
+        {
+          "level": 3,
+          "title": "6.解析GET参数",
+          "slug": "_6-解析get参数"
+        },
+        {
+          "level": 3,
+          "title": "7.移动端去除点击背景",
+          "slug": "_7-移动端去除点击背景"
+        },
+        {
+          "level": 3,
+          "title": "8.对象属性访问的两种方式",
+          "slug": "_8-对象属性访问的两种方式"
+        },
+        {
+          "level": 3,
+          "title": "9.vue异步传参",
+          "slug": "_9-vue异步传参"
+        }
+      ],
+      "lastUpdated": "12/9/2021, 5:26:32 PM"
     },
     {
       "title": "初识Vue3",
@@ -559,109 +629,6 @@ export const siteData = {
       "lastUpdated": "11/24/2021, 1:10:23 PM"
     },
     {
-      "title": "Vue国际化配置",
-      "frontmatter": {
-        "title": "Vue国际化配置",
-        "date": "2021-11-24T00:00:00.000Z",
-        "categories": [
-          "Vue"
-        ],
-        "tags": [
-          "Vue2.0"
-        ]
-      },
-      "regularPath": "/blogs/categories/Vue/vue_01.html",
-      "relativePath": "blogs/categories/Vue/vue_01.md",
-      "key": "v-280155d4",
-      "path": "/blogs/categories/Vue/vue_01.html",
-      "headers": [
-        {
-          "level": 3,
-          "title": "Vue-i18n",
-          "slug": "vue-i18n"
-        }
-      ],
-      "lastUpdated": "11/24/2021, 1:10:23 PM"
-    },
-    {
-      "frontmatter": {},
-      "regularPath": "/docs/guide.html",
-      "relativePath": "docs/guide.md",
-      "key": "v-b1f33ee0",
-      "path": "/docs/guide.html",
-      "lastUpdated": "11/24/2021, 1:10:23 PM"
-    },
-    {
-      "title": "工作中学习到的一些知识",
-      "frontmatter": {
-        "title": "工作中学习到的一些知识",
-        "date": "2021-11-24T00:00:00.000Z",
-        "categories": [
-          "工作杂记"
-        ],
-        "tags": [
-          "work"
-        ]
-      },
-      "regularPath": "/blogs/categories/Work/work.html",
-      "relativePath": "blogs/categories/Work/work.md",
-      "key": "v-5dce1052",
-      "path": "/blogs/categories/Work/work.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "tips",
-          "slug": "tips"
-        },
-        {
-          "level": 3,
-          "title": "1.设置字体渐变",
-          "slug": "_1-设置字体渐变"
-        },
-        {
-          "level": 3,
-          "title": "2.拖拽排序",
-          "slug": "_2-拖拽排序"
-        },
-        {
-          "level": 3,
-          "title": "3.浏览器去掉滚动条",
-          "slug": "_3-浏览器去掉滚动条"
-        },
-        {
-          "level": 3,
-          "title": "4.背景虚化",
-          "slug": "_4-背景虚化"
-        },
-        {
-          "level": 3,
-          "title": "5.文本超出...",
-          "slug": "_5-文本超出"
-        },
-        {
-          "level": 3,
-          "title": "6.解析GET参数",
-          "slug": "_6-解析get参数"
-        },
-        {
-          "level": 3,
-          "title": "7.移动端去除点击背景",
-          "slug": "_7-移动端去除点击背景"
-        },
-        {
-          "level": 3,
-          "title": "8.对象属性访问的两种方式",
-          "slug": "_8-对象属性访问的两种方式"
-        },
-        {
-          "level": 3,
-          "title": "9.vue异步传参",
-          "slug": "_9-vue异步传参"
-        }
-      ],
-      "lastUpdated": "11/24/2021, 1:10:23 PM"
-    },
-    {
       "title": "博客指南",
       "frontmatter": {
         "title": "博客指南",
@@ -686,6 +653,39 @@ export const siteData = {
           "level": 2,
           "title": "License",
           "slug": "license"
+        }
+      ],
+      "lastUpdated": "12/9/2021, 5:34:54 PM"
+    },
+    {
+      "frontmatter": {},
+      "regularPath": "/docs/guide.html",
+      "relativePath": "docs/guide.md",
+      "key": "v-b1f33ee0",
+      "path": "/docs/guide.html",
+      "lastUpdated": "11/24/2021, 1:10:23 PM"
+    },
+    {
+      "title": "webpack基础配置",
+      "frontmatter": {
+        "title": "webpack基础配置",
+        "date": "2021-11-23T00:00:00.000Z",
+        "categories": [
+          "webpack"
+        ],
+        "tags": [
+          "webpack"
+        ]
+      },
+      "regularPath": "/blogs/categories/Webpack/webpack.html",
+      "relativePath": "blogs/categories/Webpack/webpack.md",
+      "key": "v-228172d4",
+      "path": "/blogs/categories/Webpack/webpack.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "进度",
+          "slug": "进度"
         }
       ],
       "lastUpdated": "11/24/2021, 1:10:23 PM"
@@ -729,6 +729,15 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "Tag",
+        "title": "css Tags"
+      },
+      "regularPath": "/tag/css/",
+      "key": "v-323b9794",
+      "path": "/tag/css/"
+    },
+    {
+      "frontmatter": {
+        "layout": "Tag",
         "title": "server Tags"
       },
       "regularPath": "/tag/server/",
@@ -747,29 +756,20 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "Tag",
-        "title": "webpack Tags"
-      },
-      "regularPath": "/tag/webpack/",
-      "key": "v-b53ec9e8",
-      "path": "/tag/webpack/"
-    },
-    {
-      "frontmatter": {
-        "layout": "Tag",
-        "title": "css Tags"
-      },
-      "regularPath": "/tag/css/",
-      "key": "v-323b9794",
-      "path": "/tag/css/"
-    },
-    {
-      "frontmatter": {
-        "layout": "Tag",
         "title": "Vue2.0 Tags"
       },
       "regularPath": "/tag/Vue2.0/",
       "key": "v-fee16492",
       "path": "/tag/Vue2.0/"
+    },
+    {
+      "frontmatter": {
+        "layout": "Tag",
+        "title": "work Tags"
+      },
+      "regularPath": "/tag/work/",
+      "key": "v-13074a58",
+      "path": "/tag/work/"
     },
     {
       "frontmatter": {
@@ -783,11 +783,11 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "Tag",
-        "title": "work Tags"
+        "title": "webpack Tags"
       },
-      "regularPath": "/tag/work/",
-      "key": "v-13074a58",
-      "path": "/tag/work/"
+      "regularPath": "/tag/webpack/",
+      "key": "v-b53ec9e8",
+      "path": "/tag/webpack/"
     },
     {
       "frontmatter": {
@@ -797,6 +797,15 @@ export const siteData = {
       "regularPath": "/categories/JS/",
       "key": "v-35a53628",
       "path": "/categories/JS/"
+    },
+    {
+      "frontmatter": {
+        "layout": "Category",
+        "title": "css Categories"
+      },
+      "regularPath": "/categories/css/",
+      "key": "v-7f0d6caa",
+      "path": "/categories/css/"
     },
     {
       "frontmatter": {
@@ -819,24 +828,6 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "Category",
-        "title": "webpack Categories"
-      },
-      "regularPath": "/categories/webpack/",
-      "key": "v-4b927980",
-      "path": "/categories/webpack/"
-    },
-    {
-      "frontmatter": {
-        "layout": "Category",
-        "title": "css Categories"
-      },
-      "regularPath": "/categories/css/",
-      "key": "v-7f0d6caa",
-      "path": "/categories/css/"
-    },
-    {
-      "frontmatter": {
-        "layout": "Category",
         "title": "Vue Categories"
       },
       "regularPath": "/categories/Vue/",
@@ -851,6 +842,15 @@ export const siteData = {
       "regularPath": "/categories/%E5%B7%A5%E4%BD%9C%E6%9D%82%E8%AE%B0/",
       "key": "v-76b278e8",
       "path": "/categories/工作杂记/"
+    },
+    {
+      "frontmatter": {
+        "layout": "Category",
+        "title": "webpack Categories"
+      },
+      "regularPath": "/categories/webpack/",
+      "key": "v-4b927980",
+      "path": "/categories/webpack/"
     }
   ],
   "themeConfig": {
@@ -928,6 +928,8 @@ export const siteData = {
     "lastUpdated": "Last Updated",
     "author": "Miko Yan",
     "authorAvatar": "/avatar.png",
+    "record": "渝ICP备2021013697号",
+    "recordLink": "https://beian.miit.gov.cn/",
     "startYear": "2021",
     "valineConfig": {
       "appId": "qCotgRe6cJbrmI63r2fB0Ird-gzGzoHsz",

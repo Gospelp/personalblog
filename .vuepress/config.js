@@ -89,9 +89,9 @@ module.exports = {
     lastUpdated: "Last Updated",
     author: "Miko Yan",
     authorAvatar: "/avatar.png",
-    // record: 'ICP 备案文案',
-    // recordLink: 'ICP 备案指向链接',
-    // cyberSecurityRecord: '公安部备案文案',
+    record: '渝ICP备2021013697号',
+    recordLink: 'https://beian.miit.gov.cn/',
+    // cyberSecurityRecord: '渝ICP备2021013697号',
     // cyberSecurityLink: '公安部备案指向链接',
     startYear: "2021",
     valineConfig: {
