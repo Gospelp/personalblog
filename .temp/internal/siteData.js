@@ -64,29 +64,28 @@ export const siteData = {
       "lastUpdated": "12/7/2021, 3:34:31 PM"
     },
     {
-      "title": "async await关键字的使用",
+      "title": "初识小程序",
       "frontmatter": {
-        "title": "async await关键字的使用",
-        "date": "2021-11-24T00:00:00.000Z",
+        "title": "初识小程序",
+        "date": "2021-12-31T00:00:00.000Z",
         "categories": [
-          "JS"
+          "mini"
         ],
         "tags": [
-          "JS"
+          "mini"
         ]
       },
-      "regularPath": "/blogs/categories/JS/JS_01.html",
-      "relativePath": "blogs/categories/JS/JS_01.md",
-      "key": "v-171fd64c",
-      "path": "/blogs/categories/JS/JS_01.html",
+      "regularPath": "/blogs/categories/Miniprogram/wechat01.html",
+      "relativePath": "blogs/categories/Miniprogram/wechat01.md",
+      "key": "v-c157d9d8",
+      "path": "/blogs/categories/Miniprogram/wechat01.html",
       "headers": [
         {
           "level": 3,
-          "title": "async await",
-          "slug": "async-await"
+          "title": "学不会",
+          "slug": "学不会"
         }
-      ],
-      "lastUpdated": "11/24/2021, 1:10:23 PM"
+      ]
     },
     {
       "title": "Mockjs 使用",
@@ -174,6 +173,56 @@ export const siteData = {
       "lastUpdated": "12/6/2021, 3:26:24 PM"
     },
     {
+      "title": "服务器部署",
+      "frontmatter": {
+        "title": "服务器部署",
+        "date": "2021-11-24T00:00:00.000Z",
+        "categories": [
+          "server"
+        ],
+        "tags": [
+          "server"
+        ]
+      },
+      "regularPath": "/blogs/categories/Server/sever.html",
+      "relativePath": "blogs/categories/Server/sever.md",
+      "key": "v-131aee4c",
+      "path": "/blogs/categories/Server/sever.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "进度",
+          "slug": "进度"
+        }
+      ],
+      "lastUpdated": "11/24/2021, 1:10:23 PM"
+    },
+    {
+      "title": "async await关键字的使用",
+      "frontmatter": {
+        "title": "async await关键字的使用",
+        "date": "2021-11-24T00:00:00.000Z",
+        "categories": [
+          "JS"
+        ],
+        "tags": [
+          "JS"
+        ]
+      },
+      "regularPath": "/blogs/categories/JS/JS_01.html",
+      "relativePath": "blogs/categories/JS/JS_01.md",
+      "key": "v-171fd64c",
+      "path": "/blogs/categories/JS/JS_01.html",
+      "headers": [
+        {
+          "level": 3,
+          "title": "async await",
+          "slug": "async-await"
+        }
+      ],
+      "lastUpdated": "11/24/2021, 1:10:23 PM"
+    },
+    {
       "title": "Scss的使用",
       "frontmatter": {
         "title": "Scss的使用",
@@ -207,31 +256,6 @@ export const siteData = {
         }
       ],
       "lastUpdated": "12/7/2021, 10:05:28 AM"
-    },
-    {
-      "title": "服务器部署",
-      "frontmatter": {
-        "title": "服务器部署",
-        "date": "2021-11-24T00:00:00.000Z",
-        "categories": [
-          "server"
-        ],
-        "tags": [
-          "server"
-        ]
-      },
-      "regularPath": "/blogs/categories/Server/sever.html",
-      "relativePath": "blogs/categories/Server/sever.md",
-      "key": "v-131aee4c",
-      "path": "/blogs/categories/Server/sever.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "进度",
-          "slug": "进度"
-        }
-      ],
-      "lastUpdated": "11/24/2021, 1:10:23 PM"
     },
     {
       "title": "初识react",
@@ -329,6 +353,31 @@ export const siteData = {
       "lastUpdated": "11/24/2021, 1:10:23 PM"
     },
     {
+      "title": "webpack基础配置",
+      "frontmatter": {
+        "title": "webpack基础配置",
+        "date": "2021-11-23T00:00:00.000Z",
+        "categories": [
+          "webpack"
+        ],
+        "tags": [
+          "webpack"
+        ]
+      },
+      "regularPath": "/blogs/categories/Webpack/webpack.html",
+      "relativePath": "blogs/categories/Webpack/webpack.md",
+      "key": "v-228172d4",
+      "path": "/blogs/categories/Webpack/webpack.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "webpack配置",
+          "slug": "webpack配置"
+        }
+      ],
+      "lastUpdated": "11/24/2021, 1:10:23 PM"
+    },
+    {
       "title": "Vuex语法糖、插槽、父子传值",
       "frontmatter": {
         "title": "Vuex语法糖、插槽、父子传值",
@@ -359,74 +408,12 @@ export const siteData = {
       "lastUpdated": "11/24/2021, 1:10:23 PM"
     },
     {
-      "title": "工作知识",
-      "frontmatter": {
-        "title": "工作知识",
-        "date": "2021-11-24T00:00:00.000Z",
-        "categories": [
-          "工作杂记"
-        ],
-        "tags": [
-          "work"
-        ]
-      },
-      "regularPath": "/blogs/categories/Work/work.html",
-      "relativePath": "blogs/categories/Work/work.md",
-      "key": "v-5dce1052",
-      "path": "/blogs/categories/Work/work.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "tips",
-          "slug": "tips"
-        },
-        {
-          "level": 3,
-          "title": "1.设置字体渐变",
-          "slug": "_1-设置字体渐变"
-        },
-        {
-          "level": 3,
-          "title": "2.拖拽排序",
-          "slug": "_2-拖拽排序"
-        },
-        {
-          "level": 3,
-          "title": "3.浏览器去掉滚动条",
-          "slug": "_3-浏览器去掉滚动条"
-        },
-        {
-          "level": 3,
-          "title": "4.背景虚化",
-          "slug": "_4-背景虚化"
-        },
-        {
-          "level": 3,
-          "title": "5.文本超出...",
-          "slug": "_5-文本超出"
-        },
-        {
-          "level": 3,
-          "title": "6.解析GET参数",
-          "slug": "_6-解析get参数"
-        },
-        {
-          "level": 3,
-          "title": "7.移动端去除点击背景",
-          "slug": "_7-移动端去除点击背景"
-        },
-        {
-          "level": 3,
-          "title": "8.对象属性访问的两种方式",
-          "slug": "_8-对象属性访问的两种方式"
-        },
-        {
-          "level": 3,
-          "title": "9.vue异步传参",
-          "slug": "_9-vue异步传参"
-        }
-      ],
-      "lastUpdated": "12/9/2021, 5:26:32 PM"
+      "frontmatter": {},
+      "regularPath": "/docs/guide.html",
+      "relativePath": "docs/guide.md",
+      "key": "v-b1f33ee0",
+      "path": "/docs/guide.html",
+      "lastUpdated": "11/24/2021, 1:10:23 PM"
     },
     {
       "title": "初识Vue3",
@@ -629,6 +616,76 @@ export const siteData = {
       "lastUpdated": "11/24/2021, 1:10:23 PM"
     },
     {
+      "title": "工作知识",
+      "frontmatter": {
+        "title": "工作知识",
+        "date": "2021-11-24T00:00:00.000Z",
+        "categories": [
+          "工作杂记"
+        ],
+        "tags": [
+          "work"
+        ]
+      },
+      "regularPath": "/blogs/categories/Work/work.html",
+      "relativePath": "blogs/categories/Work/work.md",
+      "key": "v-5dce1052",
+      "path": "/blogs/categories/Work/work.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "tips",
+          "slug": "tips"
+        },
+        {
+          "level": 3,
+          "title": "1.设置字体渐变",
+          "slug": "_1-设置字体渐变"
+        },
+        {
+          "level": 3,
+          "title": "2.拖拽排序",
+          "slug": "_2-拖拽排序"
+        },
+        {
+          "level": 3,
+          "title": "3.浏览器去掉滚动条",
+          "slug": "_3-浏览器去掉滚动条"
+        },
+        {
+          "level": 3,
+          "title": "4.背景虚化",
+          "slug": "_4-背景虚化"
+        },
+        {
+          "level": 3,
+          "title": "5.文本超出...",
+          "slug": "_5-文本超出"
+        },
+        {
+          "level": 3,
+          "title": "6.解析GET参数",
+          "slug": "_6-解析get参数"
+        },
+        {
+          "level": 3,
+          "title": "7.移动端去除点击背景",
+          "slug": "_7-移动端去除点击背景"
+        },
+        {
+          "level": 3,
+          "title": "8.对象属性访问的两种方式",
+          "slug": "_8-对象属性访问的两种方式"
+        },
+        {
+          "level": 3,
+          "title": "9.vue异步传参",
+          "slug": "_9-vue异步传参"
+        }
+      ],
+      "lastUpdated": "12/9/2021, 5:26:32 PM"
+    },
+    {
       "title": "博客指南",
       "frontmatter": {
         "title": "博客指南",
@@ -656,39 +713,6 @@ export const siteData = {
         }
       ],
       "lastUpdated": "12/9/2021, 5:34:54 PM"
-    },
-    {
-      "frontmatter": {},
-      "regularPath": "/docs/guide.html",
-      "relativePath": "docs/guide.md",
-      "key": "v-b1f33ee0",
-      "path": "/docs/guide.html",
-      "lastUpdated": "11/24/2021, 1:10:23 PM"
-    },
-    {
-      "title": "webpack基础配置",
-      "frontmatter": {
-        "title": "webpack基础配置",
-        "date": "2021-11-23T00:00:00.000Z",
-        "categories": [
-          "webpack"
-        ],
-        "tags": [
-          "webpack"
-        ]
-      },
-      "regularPath": "/blogs/categories/Webpack/webpack.html",
-      "relativePath": "blogs/categories/Webpack/webpack.md",
-      "key": "v-228172d4",
-      "path": "/blogs/categories/Webpack/webpack.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "进度",
-          "slug": "进度"
-        }
-      ],
-      "lastUpdated": "11/24/2021, 1:10:23 PM"
     },
     {
       "frontmatter": {
@@ -720,6 +744,15 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "Tag",
+        "title": "mini Tags"
+      },
+      "regularPath": "/tag/mini/",
+      "key": "v-1426b364",
+      "path": "/tag/mini/"
+    },
+    {
+      "frontmatter": {
+        "layout": "Tag",
         "title": "JS Tags"
       },
       "regularPath": "/tag/JS/",
@@ -729,20 +762,20 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "Tag",
-        "title": "css Tags"
-      },
-      "regularPath": "/tag/css/",
-      "key": "v-323b9794",
-      "path": "/tag/css/"
-    },
-    {
-      "frontmatter": {
-        "layout": "Tag",
         "title": "server Tags"
       },
       "regularPath": "/tag/server/",
       "key": "v-642d6b62",
       "path": "/tag/server/"
+    },
+    {
+      "frontmatter": {
+        "layout": "Tag",
+        "title": "css Tags"
+      },
+      "regularPath": "/tag/css/",
+      "key": "v-323b9794",
+      "path": "/tag/css/"
     },
     {
       "frontmatter": {
@@ -765,11 +798,11 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "Tag",
-        "title": "work Tags"
+        "title": "webpack Tags"
       },
-      "regularPath": "/tag/work/",
-      "key": "v-13074a58",
-      "path": "/tag/work/"
+      "regularPath": "/tag/webpack/",
+      "key": "v-b53ec9e8",
+      "path": "/tag/webpack/"
     },
     {
       "frontmatter": {
@@ -783,11 +816,20 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "Tag",
-        "title": "webpack Tags"
+        "title": "work Tags"
       },
-      "regularPath": "/tag/webpack/",
-      "key": "v-b53ec9e8",
-      "path": "/tag/webpack/"
+      "regularPath": "/tag/work/",
+      "key": "v-13074a58",
+      "path": "/tag/work/"
+    },
+    {
+      "frontmatter": {
+        "layout": "Category",
+        "title": "mini Categories"
+      },
+      "regularPath": "/categories/mini/",
+      "key": "v-63287c5a",
+      "path": "/categories/mini/"
     },
     {
       "frontmatter": {
@@ -801,20 +843,20 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "Category",
-        "title": "css Categories"
-      },
-      "regularPath": "/categories/css/",
-      "key": "v-7f0d6caa",
-      "path": "/categories/css/"
-    },
-    {
-      "frontmatter": {
-        "layout": "Category",
         "title": "server Categories"
       },
       "regularPath": "/categories/server/",
       "key": "v-71cbee6e",
       "path": "/categories/server/"
+    },
+    {
+      "frontmatter": {
+        "layout": "Category",
+        "title": "css Categories"
+      },
+      "regularPath": "/categories/css/",
+      "key": "v-7f0d6caa",
+      "path": "/categories/css/"
     },
     {
       "frontmatter": {
@@ -837,20 +879,20 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "Category",
-        "title": "工作杂记 Categories"
-      },
-      "regularPath": "/categories/%E5%B7%A5%E4%BD%9C%E6%9D%82%E8%AE%B0/",
-      "key": "v-76b278e8",
-      "path": "/categories/工作杂记/"
-    },
-    {
-      "frontmatter": {
-        "layout": "Category",
         "title": "webpack Categories"
       },
       "regularPath": "/categories/webpack/",
       "key": "v-4b927980",
       "path": "/categories/webpack/"
+    },
+    {
+      "frontmatter": {
+        "layout": "Category",
+        "title": "工作杂记 Categories"
+      },
+      "regularPath": "/categories/%E5%B7%A5%E4%BD%9C%E6%9D%82%E8%AE%B0/",
+      "key": "v-76b278e8",
+      "path": "/categories/工作杂记/"
     }
   ],
   "themeConfig": {

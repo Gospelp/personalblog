@@ -3,21 +3,21 @@
  */
 export default {
   "tags": {
+    "mini": {
+      "key": "mini",
+      "scope": "tags",
+      "path": "/tag/mini/",
+      "pageKeys": [
+        "v-c157d9d8"
+      ]
+    },
     "JS": {
       "key": "JS",
       "scope": "tags",
       "path": "/tag/JS/",
       "pageKeys": [
-        "v-171fd64c",
-        "v-0d20bf84"
-      ]
-    },
-    "css": {
-      "key": "css",
-      "scope": "tags",
-      "path": "/tag/css/",
-      "pageKeys": [
-        "v-38e13e9a"
+        "v-0d20bf84",
+        "v-171fd64c"
       ]
     },
     "server": {
@@ -26,6 +26,14 @@ export default {
       "path": "/tag/server/",
       "pageKeys": [
         "v-131aee4c"
+      ]
+    },
+    "css": {
+      "key": "css",
+      "scope": "tags",
+      "path": "/tag/css/",
+      "pageKeys": [
+        "v-38e13e9a"
       ]
     },
     "React": {
@@ -45,12 +53,12 @@ export default {
         "v-3d5e01f4"
       ]
     },
-    "work": {
-      "key": "work",
+    "webpack": {
+      "key": "webpack",
       "scope": "tags",
-      "path": "/tag/work/",
+      "path": "/tag/webpack/",
       "pageKeys": [
-        "v-5dce1052"
+        "v-228172d4"
       ]
     },
     "Vue3.0": {
@@ -61,31 +69,31 @@ export default {
         "v-4ef83070"
       ]
     },
-    "webpack": {
-      "key": "webpack",
+    "work": {
+      "key": "work",
       "scope": "tags",
-      "path": "/tag/webpack/",
+      "path": "/tag/work/",
       "pageKeys": [
-        "v-228172d4"
+        "v-5dce1052"
       ]
     }
   },
   "categories": {
+    "mini": {
+      "key": "mini",
+      "scope": "categories",
+      "path": "/categories/mini/",
+      "pageKeys": [
+        "v-c157d9d8"
+      ]
+    },
     "JS": {
       "key": "JS",
       "scope": "categories",
       "path": "/categories/JS/",
       "pageKeys": [
-        "v-171fd64c",
-        "v-0d20bf84"
-      ]
-    },
-    "css": {
-      "key": "css",
-      "scope": "categories",
-      "path": "/categories/css/",
-      "pageKeys": [
-        "v-38e13e9a"
+        "v-0d20bf84",
+        "v-171fd64c"
       ]
     },
     "server": {
@@ -94,6 +102,14 @@ export default {
       "path": "/categories/server/",
       "pageKeys": [
         "v-131aee4c"
+      ]
+    },
+    "css": {
+      "key": "css",
+      "scope": "categories",
+      "path": "/categories/css/",
+      "pageKeys": [
+        "v-38e13e9a"
       ]
     },
     "React": {
@@ -114,20 +130,20 @@ export default {
         "v-4ef83070"
       ]
     },
-    "工作杂记": {
-      "key": "工作杂记",
-      "scope": "categories",
-      "path": "/categories/工作杂记/",
-      "pageKeys": [
-        "v-5dce1052"
-      ]
-    },
     "webpack": {
       "key": "webpack",
       "scope": "categories",
       "path": "/categories/webpack/",
       "pageKeys": [
         "v-228172d4"
+      ]
+    },
+    "工作杂记": {
+      "key": "工作杂记",
+      "scope": "categories",
+      "path": "/categories/工作杂记/",
+      "pageKeys": [
+        "v-5dce1052"
       ]
     }
   },
