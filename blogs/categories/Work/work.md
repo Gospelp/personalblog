@@ -99,3 +99,16 @@ person["name"]
 ### 9.vue异步传参
 
 异步传参使用watch函数 或者v-if判断是否拿到值 在进行后面的操作
+
+### 10.window.open子父窗口之间的通信
+
+```js
+//子窗口 
+window.opener.postMessage('我是子窗口的消息')
+//父窗口接收
+window.addEventListener('message',(msg)=>{
+    let mytext = document.querySelector('#mytext')
+    mytext.innerHTML = JSON.stringify(msg)
+})
+```
+
