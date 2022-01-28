@@ -64,6 +64,133 @@ export const siteData = {
       "lastUpdated": "12/7/2021, 3:34:31 PM"
     },
     {
+      "title": "函数柯里化",
+      "frontmatter": {
+        "title": "函数柯里化",
+        "date": "2022-01-21T00:00:00.000Z",
+        "categories": [
+          "JS"
+        ],
+        "tags": [
+          "JS"
+        ]
+      },
+      "regularPath": "/blogs/categories/JS/JS_04.html",
+      "relativePath": "blogs/categories/JS/JS_04.md",
+      "key": "v-2e18ddfa",
+      "path": "/blogs/categories/JS/JS_04.html",
+      "headers": [
+        {
+          "level": 3,
+          "title": "函数柯里化",
+          "slug": "函数柯里化"
+        }
+      ],
+      "lastUpdated": "1/21/2022, 2:16:54 PM"
+    },
+    {
+      "title": "防抖与节流",
+      "frontmatter": {
+        "title": "防抖与节流",
+        "date": "2022-01-21T00:00:00.000Z",
+        "categories": [
+          "JS"
+        ],
+        "tags": [
+          "JS"
+        ]
+      },
+      "regularPath": "/blogs/categories/JS/JS_03.html",
+      "relativePath": "blogs/categories/JS/JS_03.md",
+      "key": "v-74e974cc",
+      "path": "/blogs/categories/JS/JS_03.html",
+      "headers": [
+        {
+          "level": 3,
+          "title": "理解防抖与节流",
+          "slug": "理解防抖与节流"
+        }
+      ],
+      "lastUpdated": "1/21/2022, 2:16:54 PM"
+    },
+    {
+      "title": "原型链",
+      "frontmatter": {
+        "title": "原型链",
+        "date": "2022-01-25T00:00:00.000Z",
+        "categories": [
+          "JS"
+        ],
+        "tags": [
+          "JS"
+        ]
+      },
+      "regularPath": "/blogs/categories/JS/JS_05.html",
+      "relativePath": "blogs/categories/JS/JS_05.md",
+      "key": "v-d2b3134c",
+      "path": "/blogs/categories/JS/JS_05.html"
+    },
+    {
+      "title": "async await关键字的使用",
+      "frontmatter": {
+        "title": "async await关键字的使用",
+        "date": "2021-11-24T00:00:00.000Z",
+        "categories": [
+          "JS"
+        ],
+        "tags": [
+          "JS"
+        ]
+      },
+      "regularPath": "/blogs/categories/JS/JS_01.html",
+      "relativePath": "blogs/categories/JS/JS_01.md",
+      "key": "v-171fd64c",
+      "path": "/blogs/categories/JS/JS_01.html",
+      "headers": [
+        {
+          "level": 3,
+          "title": "async await",
+          "slug": "async-await"
+        }
+      ],
+      "lastUpdated": "11/24/2021, 1:10:23 PM"
+    },
+    {
+      "title": "require中的default",
+      "frontmatter": {
+        "title": "require中的default",
+        "date": "2022-01-18T00:00:00.000Z",
+        "categories": [
+          "JS"
+        ],
+        "tags": [
+          "JS"
+        ]
+      },
+      "regularPath": "/blogs/categories/JS/JS_02.html",
+      "relativePath": "blogs/categories/JS/JS_02.md",
+      "key": "v-5cfdad3a",
+      "path": "/blogs/categories/JS/JS_02.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "前置知识",
+          "slug": "前置知识"
+        },
+        {
+          "level": 2,
+          "title": "export default为什么是语法糖",
+          "slug": "export-default为什么是语法糖"
+        },
+        {
+          "level": 2,
+          "title": "如何require一个ES6 Module",
+          "slug": "如何require一个es6-module"
+        }
+      ],
+      "lastUpdated": "1/21/2022, 2:16:54 PM"
+    },
+    {
       "title": "初识小程序",
       "frontmatter": {
         "title": "初识小程序",
@@ -85,7 +212,8 @@ export const siteData = {
           "title": "学不会",
           "slug": "学不会"
         }
-      ]
+      ],
+      "lastUpdated": "1/6/2022, 5:35:27 PM"
     },
     {
       "title": "Mockjs 使用",
@@ -173,54 +301,29 @@ export const siteData = {
       "lastUpdated": "12/6/2021, 3:26:24 PM"
     },
     {
-      "title": "服务器部署",
+      "title": "Scss的基本使用",
       "frontmatter": {
-        "title": "服务器部署",
-        "date": "2021-11-24T00:00:00.000Z",
+        "title": "Scss的基本使用",
+        "date": "2022-01-18T00:00:00.000Z",
         "categories": [
-          "server"
+          "css"
         ],
         "tags": [
-          "server"
+          "css"
         ]
       },
-      "regularPath": "/blogs/categories/Server/sever.html",
-      "relativePath": "blogs/categories/Server/sever.md",
-      "key": "v-131aee4c",
-      "path": "/blogs/categories/Server/sever.html",
+      "regularPath": "/blogs/categories/Scss/scss_02.html",
+      "relativePath": "blogs/categories/Scss/scss_02.md",
+      "key": "v-03970e7a",
+      "path": "/blogs/categories/Scss/scss_02.html",
       "headers": [
         {
           "level": 2,
-          "title": "进度",
-          "slug": "进度"
+          "title": "SCSS的基本使用",
+          "slug": "scss的基本使用"
         }
       ],
-      "lastUpdated": "11/24/2021, 1:10:23 PM"
-    },
-    {
-      "title": "async await关键字的使用",
-      "frontmatter": {
-        "title": "async await关键字的使用",
-        "date": "2021-11-24T00:00:00.000Z",
-        "categories": [
-          "JS"
-        ],
-        "tags": [
-          "JS"
-        ]
-      },
-      "regularPath": "/blogs/categories/JS/JS_01.html",
-      "relativePath": "blogs/categories/JS/JS_01.md",
-      "key": "v-171fd64c",
-      "path": "/blogs/categories/JS/JS_01.html",
-      "headers": [
-        {
-          "level": 3,
-          "title": "async await",
-          "slug": "async-await"
-        }
-      ],
-      "lastUpdated": "11/24/2021, 1:10:23 PM"
+      "lastUpdated": "1/19/2022, 1:53:37 PM"
     },
     {
       "title": "Scss的使用",
@@ -256,6 +359,31 @@ export const siteData = {
         }
       ],
       "lastUpdated": "12/7/2021, 10:05:28 AM"
+    },
+    {
+      "title": "服务器部署",
+      "frontmatter": {
+        "title": "服务器部署",
+        "date": "2021-11-24T00:00:00.000Z",
+        "categories": [
+          "server"
+        ],
+        "tags": [
+          "server"
+        ]
+      },
+      "regularPath": "/blogs/categories/Server/sever.html",
+      "relativePath": "blogs/categories/Server/sever.md",
+      "key": "v-131aee4c",
+      "path": "/blogs/categories/Server/sever.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "进度",
+          "slug": "进度"
+        }
+      ],
+      "lastUpdated": "11/24/2021, 1:10:23 PM"
     },
     {
       "title": "初识react",
@@ -328,6 +456,31 @@ export const siteData = {
       "lastUpdated": "12/9/2021, 5:26:32 PM"
     },
     {
+      "title": "Jenkins的使用",
+      "frontmatter": {
+        "title": "Jenkins的使用",
+        "date": "2022-1-20",
+        "categories": [
+          "server"
+        ],
+        "tags": [
+          "server"
+        ]
+      },
+      "regularPath": "/blogs/categories/Server/Jenkins.html",
+      "relativePath": "blogs/categories/Server/Jenkins.md",
+      "key": "v-dc54c30c",
+      "path": "/blogs/categories/Server/Jenkins.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Jenkins",
+          "slug": "jenkins"
+        }
+      ],
+      "lastUpdated": "1/21/2022, 2:55:38 PM"
+    },
+    {
       "title": "Vue国际化配置",
       "frontmatter": {
         "title": "Vue国际化配置",
@@ -348,31 +501,6 @@ export const siteData = {
           "level": 3,
           "title": "Vue-i18n",
           "slug": "vue-i18n"
-        }
-      ],
-      "lastUpdated": "11/24/2021, 1:10:23 PM"
-    },
-    {
-      "title": "webpack基础配置",
-      "frontmatter": {
-        "title": "webpack基础配置",
-        "date": "2021-11-23T00:00:00.000Z",
-        "categories": [
-          "webpack"
-        ],
-        "tags": [
-          "webpack"
-        ]
-      },
-      "regularPath": "/blogs/categories/Webpack/webpack.html",
-      "relativePath": "blogs/categories/Webpack/webpack.md",
-      "key": "v-228172d4",
-      "path": "/blogs/categories/Webpack/webpack.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "webpack配置",
-          "slug": "webpack配置"
         }
       ],
       "lastUpdated": "11/24/2021, 1:10:23 PM"
@@ -405,14 +533,6 @@ export const siteData = {
           "slug": "作用域插槽"
         }
       ],
-      "lastUpdated": "11/24/2021, 1:10:23 PM"
-    },
-    {
-      "frontmatter": {},
-      "regularPath": "/docs/guide.html",
-      "relativePath": "docs/guide.md",
-      "key": "v-b1f33ee0",
-      "path": "/docs/guide.html",
       "lastUpdated": "11/24/2021, 1:10:23 PM"
     },
     {
@@ -616,6 +736,68 @@ export const siteData = {
       "lastUpdated": "11/24/2021, 1:10:23 PM"
     },
     {
+      "title": "博客指南",
+      "frontmatter": {
+        "title": "博客指南",
+        "date": "2021-11-20T00:00:00.000Z"
+      },
+      "regularPath": "/blogs/other/guide.html",
+      "relativePath": "blogs/other/guide.md",
+      "key": "v-5cb75766",
+      "path": "/blogs/other/guide.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "参考指南",
+          "slug": "参考指南"
+        },
+        {
+          "level": 3,
+          "title": "1.x",
+          "slug": "_1-x"
+        },
+        {
+          "level": 2,
+          "title": "License",
+          "slug": "license"
+        }
+      ],
+      "lastUpdated": "1/21/2022, 3:35:42 PM"
+    },
+    {
+      "frontmatter": {},
+      "regularPath": "/docs/guide.html",
+      "relativePath": "docs/guide.md",
+      "key": "v-b1f33ee0",
+      "path": "/docs/guide.html",
+      "lastUpdated": "11/24/2021, 1:10:23 PM"
+    },
+    {
+      "title": "webpack基础配置",
+      "frontmatter": {
+        "title": "webpack基础配置",
+        "date": "2021-11-23T00:00:00.000Z",
+        "categories": [
+          "webpack"
+        ],
+        "tags": [
+          "webpack"
+        ]
+      },
+      "regularPath": "/blogs/categories/Webpack/webpack.html",
+      "relativePath": "blogs/categories/Webpack/webpack.md",
+      "key": "v-228172d4",
+      "path": "/blogs/categories/Webpack/webpack.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "webpack配置",
+          "slug": "webpack配置"
+        }
+      ],
+      "lastUpdated": "1/6/2022, 5:35:27 PM"
+    },
+    {
       "title": "工作知识",
       "frontmatter": {
         "title": "工作知识",
@@ -681,38 +863,14 @@ export const siteData = {
           "level": 3,
           "title": "9.vue异步传参",
           "slug": "_9-vue异步传参"
-        }
-      ],
-      "lastUpdated": "12/9/2021, 5:26:32 PM"
-    },
-    {
-      "title": "博客指南",
-      "frontmatter": {
-        "title": "博客指南",
-        "date": "2021-11-20T00:00:00.000Z"
-      },
-      "regularPath": "/blogs/other/guide.html",
-      "relativePath": "blogs/other/guide.md",
-      "key": "v-5cb75766",
-      "path": "/blogs/other/guide.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "参考指南",
-          "slug": "参考指南"
         },
         {
           "level": 3,
-          "title": "1.x",
-          "slug": "_1-x"
-        },
-        {
-          "level": 2,
-          "title": "License",
-          "slug": "license"
+          "title": "10.window.open子父窗口之间的通信",
+          "slug": "_10-window-open子父窗口之间的通信"
         }
       ],
-      "lastUpdated": "12/9/2021, 5:34:54 PM"
+      "lastUpdated": "1/20/2022, 11:14:31 AM"
     },
     {
       "frontmatter": {
@@ -744,15 +902,6 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "Tag",
-        "title": "mini Tags"
-      },
-      "regularPath": "/tag/mini/",
-      "key": "v-1426b364",
-      "path": "/tag/mini/"
-    },
-    {
-      "frontmatter": {
-        "layout": "Tag",
         "title": "JS Tags"
       },
       "regularPath": "/tag/JS/",
@@ -762,11 +911,11 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "Tag",
-        "title": "server Tags"
+        "title": "mini Tags"
       },
-      "regularPath": "/tag/server/",
-      "key": "v-642d6b62",
-      "path": "/tag/server/"
+      "regularPath": "/tag/mini/",
+      "key": "v-1426b364",
+      "path": "/tag/mini/"
     },
     {
       "frontmatter": {
@@ -776,6 +925,15 @@ export const siteData = {
       "regularPath": "/tag/css/",
       "key": "v-323b9794",
       "path": "/tag/css/"
+    },
+    {
+      "frontmatter": {
+        "layout": "Tag",
+        "title": "server Tags"
+      },
+      "regularPath": "/tag/server/",
+      "key": "v-642d6b62",
+      "path": "/tag/server/"
     },
     {
       "frontmatter": {
@@ -798,20 +956,20 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "Tag",
-        "title": "webpack Tags"
-      },
-      "regularPath": "/tag/webpack/",
-      "key": "v-b53ec9e8",
-      "path": "/tag/webpack/"
-    },
-    {
-      "frontmatter": {
-        "layout": "Tag",
         "title": "Vue3.0 Tags"
       },
       "regularPath": "/tag/Vue3.0/",
       "key": "v-fee07bd4",
       "path": "/tag/Vue3.0/"
+    },
+    {
+      "frontmatter": {
+        "layout": "Tag",
+        "title": "webpack Tags"
+      },
+      "regularPath": "/tag/webpack/",
+      "key": "v-b53ec9e8",
+      "path": "/tag/webpack/"
     },
     {
       "frontmatter": {
@@ -825,15 +983,6 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "Category",
-        "title": "mini Categories"
-      },
-      "regularPath": "/categories/mini/",
-      "key": "v-63287c5a",
-      "path": "/categories/mini/"
-    },
-    {
-      "frontmatter": {
-        "layout": "Category",
         "title": "JS Categories"
       },
       "regularPath": "/categories/JS/",
@@ -843,11 +992,11 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "Category",
-        "title": "server Categories"
+        "title": "mini Categories"
       },
-      "regularPath": "/categories/server/",
-      "key": "v-71cbee6e",
-      "path": "/categories/server/"
+      "regularPath": "/categories/mini/",
+      "key": "v-63287c5a",
+      "path": "/categories/mini/"
     },
     {
       "frontmatter": {
@@ -857,6 +1006,15 @@ export const siteData = {
       "regularPath": "/categories/css/",
       "key": "v-7f0d6caa",
       "path": "/categories/css/"
+    },
+    {
+      "frontmatter": {
+        "layout": "Category",
+        "title": "server Categories"
+      },
+      "regularPath": "/categories/server/",
+      "key": "v-71cbee6e",
+      "path": "/categories/server/"
     },
     {
       "frontmatter": {

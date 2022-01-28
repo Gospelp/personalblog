@@ -3,6 +3,19 @@
  */
 export default {
   "tags": {
+    "JS": {
+      "key": "JS",
+      "scope": "tags",
+      "path": "/tag/JS/",
+      "pageKeys": [
+        "v-2e18ddfa",
+        "v-74e974cc",
+        "v-d2b3134c",
+        "v-171fd64c",
+        "v-5cfdad3a",
+        "v-0d20bf84"
+      ]
+    },
     "mini": {
       "key": "mini",
       "scope": "tags",
@@ -11,13 +24,13 @@ export default {
         "v-c157d9d8"
       ]
     },
-    "JS": {
-      "key": "JS",
+    "css": {
+      "key": "css",
       "scope": "tags",
-      "path": "/tag/JS/",
+      "path": "/tag/css/",
       "pageKeys": [
-        "v-0d20bf84",
-        "v-171fd64c"
+        "v-03970e7a",
+        "v-38e13e9a"
       ]
     },
     "server": {
@@ -25,15 +38,8 @@ export default {
       "scope": "tags",
       "path": "/tag/server/",
       "pageKeys": [
-        "v-131aee4c"
-      ]
-    },
-    "css": {
-      "key": "css",
-      "scope": "tags",
-      "path": "/tag/css/",
-      "pageKeys": [
-        "v-38e13e9a"
+        "v-131aee4c",
+        "v-dc54c30c"
       ]
     },
     "React": {
@@ -53,20 +59,20 @@ export default {
         "v-3d5e01f4"
       ]
     },
-    "webpack": {
-      "key": "webpack",
-      "scope": "tags",
-      "path": "/tag/webpack/",
-      "pageKeys": [
-        "v-228172d4"
-      ]
-    },
     "Vue3.0": {
       "key": "Vue3.0",
       "scope": "tags",
       "path": "/tag/Vue3.0/",
       "pageKeys": [
         "v-4ef83070"
+      ]
+    },
+    "webpack": {
+      "key": "webpack",
+      "scope": "tags",
+      "path": "/tag/webpack/",
+      "pageKeys": [
+        "v-228172d4"
       ]
     },
     "work": {
@@ -79,6 +85,19 @@ export default {
     }
   },
   "categories": {
+    "JS": {
+      "key": "JS",
+      "scope": "categories",
+      "path": "/categories/JS/",
+      "pageKeys": [
+        "v-2e18ddfa",
+        "v-74e974cc",
+        "v-d2b3134c",
+        "v-171fd64c",
+        "v-5cfdad3a",
+        "v-0d20bf84"
+      ]
+    },
     "mini": {
       "key": "mini",
       "scope": "categories",
@@ -87,13 +106,13 @@ export default {
         "v-c157d9d8"
       ]
     },
-    "JS": {
-      "key": "JS",
+    "css": {
+      "key": "css",
       "scope": "categories",
-      "path": "/categories/JS/",
+      "path": "/categories/css/",
       "pageKeys": [
-        "v-0d20bf84",
-        "v-171fd64c"
+        "v-03970e7a",
+        "v-38e13e9a"
       ]
     },
     "server": {
@@ -101,15 +120,8 @@ export default {
       "scope": "categories",
       "path": "/categories/server/",
       "pageKeys": [
-        "v-131aee4c"
-      ]
-    },
-    "css": {
-      "key": "css",
-      "scope": "categories",
-      "path": "/categories/css/",
-      "pageKeys": [
-        "v-38e13e9a"
+        "v-131aee4c",
+        "v-dc54c30c"
       ]
     },
     "React": {
